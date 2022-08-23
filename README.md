@@ -1,4 +1,4 @@
-# String Builder
+# String Format
 
 ## Learning Goals
 
