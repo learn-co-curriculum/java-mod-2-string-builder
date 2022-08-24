@@ -7,10 +7,9 @@
 ## Introduction
 
 Sometimes we want to format a `String` a certain way. For example, we might want
-to insert so many spaces between words when printing a `String` value, or we
-might want to print a `boolean` value with all uppercase characters instead of
-lowercase characters. Let's look at ways we can format a `String` to ensure it
-will print out on the console a certain way!
+to insert so many spaces between words when printing a `String` value. Let's
+look at ways we can format a `String` to ensure it will print out to the console
+a certain way!
 
 ## The `format()` method
 
